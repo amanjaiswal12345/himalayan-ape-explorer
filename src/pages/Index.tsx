@@ -113,9 +113,7 @@ const Index = () => {
       </div>
 
 
-      <DestinationCarousel title="International Destinations" destinations={InternationalDestinations} />
-      <DestinationCarousel title="Domestic Destinations" destinations={DOMESTICDESTINATIONS} />
-      <DestinationCarousel title="Religious Destinations" destinations={RELIGIOUSDESTINATIONS} />
+
 
       <VideoTestimonials />
       <FanbookTestimonials />
